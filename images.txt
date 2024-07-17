@@ -1,5 +1,3 @@
-linuxserver/nextcloud
-liwei2633/gospeed
 lobehub/lobe-chat
 oldiy/baidupcs
 ollama/ollama
