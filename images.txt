@@ -1,3 +1,2 @@
-cloudreve
-jupyter
-kodcloud
+cloudreve/cloudreve
+jupyter/all-spark-notebook
