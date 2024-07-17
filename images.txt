@@ -1,2 +1,9 @@
-cloudreve/cloudreve
-jupyter/all-spark-notebook
+linuxserver/nextcloud
+liwei2633/gospeed
+lobehub/lobe-chat
+oldiy/baidupcs
+ollama/ollama
+portainer/portainer-ce
+p3terx/aria2-pro
+deluan/navidrome
+linkease/istorepanel
