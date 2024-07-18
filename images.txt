@@ -1,3 +1,3 @@
-qBittorrent/qBittorrent
-Transmission/Transmission
+linuxserver/qbittorrent
+linuxserver/transmission
 
