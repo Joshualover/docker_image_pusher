@@ -1,2 +1,1 @@
-openresty/openresty
-halohub/halo:2.17.2
+flowise
