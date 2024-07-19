@@ -1,4 +1,1 @@
-linuxserver/qbittorrent
-linuxserver/transmission
-mysql
-mariadb
+openresty
