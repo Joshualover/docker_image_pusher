@@ -1,1 +1,1 @@
-cloudflare/cloudflared
+containrrr/watchtower
