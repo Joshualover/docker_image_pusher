@@ -1,2 +1,2 @@
-hanxi/xiaomusic
-surveyking/surveyking
+talebook/talebook
+ghcr.io/cxfksword/douban-api-rs
