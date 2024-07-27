@@ -1,2 +1,1 @@
-talebook/talebook
-ghcr.io/cxfksword/douban-api-rs
+alpine
