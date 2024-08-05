@@ -1,1 +1,1 @@
-alpine
+talebook/talebook:latest
