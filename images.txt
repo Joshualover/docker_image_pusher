@@ -1,1 +1,1 @@
-talebook/talebook:latest
+cloudflare/cloudflared:latest
