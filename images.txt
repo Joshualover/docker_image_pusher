@@ -1,1 +1,1 @@
-cloudflare/cloudflared:latest
+zhayujie/chatgpt-on-wechat
