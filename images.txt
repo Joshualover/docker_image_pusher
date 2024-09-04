@@ -1,1 +1,1 @@
-frooodle/s-pdf:latest
+yourok/torrserver
