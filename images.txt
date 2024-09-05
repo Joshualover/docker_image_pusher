@@ -1,1 +1,1 @@
-yourok/torrserver
+ddsderek/easyimage:latest
