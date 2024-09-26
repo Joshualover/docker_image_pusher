@@ -1,2 +1,3 @@
 ddsderek/easyimage:latest
 gdy666/lucky
+linuxserver/emulatorjs:latest
