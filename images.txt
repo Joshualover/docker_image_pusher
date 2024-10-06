@@ -1,3 +1,5 @@
 ddsderek/easyimage:latest
 gdy666/lucky
 linuxserver/emulatorjs:latest
+metacubex/mihomo:Alpha
+metacubex/metacubexd
