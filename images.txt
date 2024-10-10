@@ -1,2 +1,1 @@
-metacubex/mihomo:Alpha
-ghcr.io/metacubex/metacubexd
+linuxserver/wps-office:chinese
