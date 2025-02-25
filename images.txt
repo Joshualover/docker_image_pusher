@@ -1,2 +1,1 @@
-linuxserver/wps-office:chinese
-nextcloud/all-in-one:latest
+lobehub/lobe-chat
