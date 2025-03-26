@@ -1,2 +1,4 @@
 idootop/mi-gpt:latest
 ionewu/owjdxb
+litespeedtech/openlitespeed
+1panel/openresty
