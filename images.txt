@@ -2,3 +2,4 @@ nocodb/nocodb:latest
 docker.n8n.io/n8nio/n8n
 unclecode/crawl4ai:all-amd64
 n8nio/n8n:1.89.0
+ghcr.io/swivid/f5-tts:main
