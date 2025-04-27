@@ -5,4 +5,4 @@ n8nio/n8n:1.89.0
 ghcr.io/swivid/f5-tts:main
 portainer/agent:2.19.5
 mysql:8.4.4
-markitdown-mcp:latest
+
