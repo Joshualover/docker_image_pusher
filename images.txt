@@ -7,3 +7,4 @@ portainer/agent:2.19.5
 mysql:8.4.4
 ngrok/ngrok
 talebook/talebook
+ghcr.io/anduin2017/how-to-cook:latest
