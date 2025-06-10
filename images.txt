@@ -1,10 +1,11 @@
 nocodb/nocodb:latest
 docker.n8n.io/n8nio/n8n
 unclecode/crawl4ai:all-amd64
-n8nio/n8n:1.94.0
+n8nio/n8n:1.95.3
 ghcr.io/swivid/f5-tts:main
 portainer/agent:2.19.5
 mysql:8.4.4
 ngrok/ngrok
 talebook/talebook
 ghcr.io/anduin2017/how-to-cook:latest
+ghcr.io/rachelos/we-mp-rss:latest
