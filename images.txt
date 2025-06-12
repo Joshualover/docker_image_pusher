@@ -9,3 +9,4 @@ ngrok/ngrok
 talebook/talebook
 ghcr.io/anduin2017/how-to-cook:latest
 ghcr.io/rachelos/we-mp-rss:latest
+flowiseai/flowise
